@@ -37,7 +37,7 @@ A pre-trained VGG19 model with a custom fully connected layer was used for this 
 ![alt text](https://raw.githubusercontent.com/ayushg212/Brain_Tumor_Detection_Using_CNN/main/images/vgg19_diagram.webp)
 
 2. **Model Summary** :
-![alt text](https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/model_summary.png)
+<img src="https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/model_summary.png"  width="800" height="400">
 
 
 ## Technologies Used
