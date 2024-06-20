@@ -5,9 +5,10 @@
 -  [Dataset](#dataset)
 - [Pre-processing](#pre-processing)
 - [Model](#model)
+- [Results](#results)
+- [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Results](#results)
 
 ## Description
 This project involves detecting tumors in MRI images using a Convolutional Neural Network (CNN).
@@ -39,6 +40,18 @@ A pre-trained VGG19 model with a custom fully connected layer was used for this 
 2. **Model Summary** :
 <img src="https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/model_summary.png"  width="800" height="400">
 
+## Results
+The model achieved an accuracy of 98% on the test dataset.
+
+Training Results:
+
+<img src="https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/training_results.png"  width="800" height="400">
+
+Confusion Matrix:
+Confusion Matrix for Training Data | Confusion Matrix for Test Data | Confusion Matrix for Validation Data 
+:-------------------------:|:-------------------------:|:-------------------------:
+![alt text](https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/training_confusion_matrix.png) |  ![alt text](https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/testing_confusion_matrix.png) | ![alt text](https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/validation_confusion_matrix.png)
+
 
 ## Technologies Used
 - Python
@@ -61,7 +74,4 @@ A pre-trained VGG19 model with a custom fully connected layer was used for this 
 1. Run the Jupyter Notebook:
    ```
    jupyter notebook DL_Project_Brain_Tumor_Image_Classification.ipynb
-## Results
-The model achieved an accuracy of 98% on the validation set.
-
 
