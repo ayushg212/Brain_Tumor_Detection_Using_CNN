@@ -23,13 +23,14 @@ A pre-trained VGG19 model with a custom fully connected layer was used for this 
 ## Setup and Installation
 
 1. Clone the repository:
-2. 2. Navigate to the project directory:
-
-
+   ```
+   git clone https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN.git  
+2. Navigate to the project directory:
+   ```
+   cd Brain_Tumor_Detection_Using_CNN
 ## Usage
 
 1. Run the Jupyter Notebook:
-
 
 
 ## Results
