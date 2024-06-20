@@ -52,6 +52,11 @@ Confusion Matrix for Training Data | Confusion Matrix for Test Data | Confusion 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![alt text](https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/training_confusion_matrix.png) |  ![alt text](https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/testing_confusion_matrix.png) | ![alt text](https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/validation_confusion_matrix.png)
 
+Classification Report:
+
+<img src="https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/Classification_report.png"  width="800" height="400">
+
+
 
 ## Technologies Used
 - Python
