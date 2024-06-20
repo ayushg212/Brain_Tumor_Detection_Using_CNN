@@ -32,6 +32,13 @@ Skull Stripping for Non tumourous Image | Skull Stripping for tumourous Image
 
 ## Model
 A pre-trained VGG19 model with a custom fully connected layer was used for this project. The custom fully connected layer was trained to achieve an accuracy of 98%.
+1. **VGG19** : VGG19 is a deep convolutional neural network architecture that was used in this project for detecting brain tumors from MRI images.VGG19 consists of 19 layers, including 16 convolutional layers and 3 fully connected layers. The architecture uses small receptive fields (3x3 filters) throughout the network, which allows it to capture fine details in images. The depth of the network enables it to learn complex features and patterns.
+   
+![alt text](https://raw.githubusercontent.com/ayushg212/Brain_Tumor_Detection_Using_CNN/main/images/vgg19_diagram.webp)
+
+2. **Model Summary** :
+![alt text](https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/model_summary.png)
+
 
 ## Technologies Used
 - Python
