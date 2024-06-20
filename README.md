@@ -54,7 +54,7 @@ Confusion Matrix for Training Data | Confusion Matrix for Test Data | Confusion 
 
 Classification Report:
 
-<img src="https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/Classification_report.png"  width="800" height="400">
+<img src="https://github.com/ayushg212/Brain_Tumor_Detection_Using_CNN/blob/main/images/Classification_report.png"  width="800" height="300">
 
 
 
