@@ -31,8 +31,8 @@ A pre-trained VGG19 model with a custom fully connected layer was used for this 
 ## Usage
 
 1. Run the Jupyter Notebook:
-
-
+   ```
+   jupyter notebook DL_Project_Brain_Tumor_Image_Classification.ipynb
 ## Results
 The model achieved an accuracy of 98% on the validation set.
 
